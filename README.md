@@ -3,7 +3,8 @@
 ## About
 
 ## Team Members 
--Sophie Nedelco -Matt Hogg
+- Sophie Nedelco 
+- Matt Hogg
 
 ## Interpreter Requirements
 
