@@ -39,7 +39,7 @@ public class PythonInterpreter {
             Scanner file = new Scanner(pythonFile);
             while(file.hasNextLine()){
                 String input = file.nextLine();
-                if(!input.matches("#.*"))
+                if(!input.matches("#.*")) //skip comments 
                 {
                     fileInput.add(input);
                 }
